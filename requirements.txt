@@ -1,0 +1,5 @@
+# OpenAI Whisper for speech-to-text
+whisper
+
+# FFmpeg Python wrapper (optional, if you want to call ffmpeg via Python)
+ffmpeg-python
